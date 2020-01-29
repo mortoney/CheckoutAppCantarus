@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\bin\Debug\CheckoutAppCantarus.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\bin\Debug\CheckoutAppCantarus.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\bin\Debug\CheckoutAppCantarus.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\obj\Debug\CheckoutAppCantarus.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\obj\Debug\CheckoutAppCantarus.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\obj\Debug\CheckoutAppCantarus.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CheckoutAppCantarus\CheckoutAppCantarus\obj\Debug\CheckoutAppCantarus.csprojAssemblyReference.cache
